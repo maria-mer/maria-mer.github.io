@@ -1,0 +1,400 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  line-height: 20px;
+  font-family: Verdana, sans-serif;
+  color: #2c1211;
+}
+html {
+  /* Растягиваем документ на всю высоту окна */
+  height: 100%;
+}
+.kheops-foto{
+    background-color: #eec793;
+}
+.f1{
+    position: relative;
+    background-color: #fbbc2d;
+    width: 100%;
+    height: 400px;
+    bottom:  -45px;
+}
+.f2{
+    position: relative;
+    background-color: #dc7c50;
+    width: 85%;
+    height: 270px;
+    bottom:  130px;
+}
+.kheops2{
+    position: relative;
+    top: -340px;
+    left: 655px;
+    font-size: 40px;
+   
+}
+.kheo{
+    position: relative;
+    top: -760px;
+    left: 45px;
+    width: 900px;
+    font-size: 18px;
+    text-indent: 30px;
+    text-align: center;
+}
+.kheops3{
+    position: relative;
+    object-fit: cover;
+    width: 470px;
+    height: 470px;
+    margin: 30px;
+    border-style: solid;
+    border-color: #9d534e;
+    border-width: 15px;
+    top: -700px;
+    left: 60px;
+}
+.about-kheops{
+    background-color: #a78171;
+    height: 980px;
+}
+.osnovnoe{
+    position: relative;
+    background-color: #dc7c50;
+    width: 500px;
+    height: 330px;
+    top:65px;
+    left: 140px;
+}
+.text-kheops{
+    position: relative;
+    background-color: #fbbc2d;
+    width: 100%;
+    height: 400px;
+    bottom:  -45px;
+}
+.os{
+    position: relative;
+    top: -250px;
+    left: 190px;
+}
+.k2{
+    position: relative;
+    object-fit: cover;
+    width: 470px;
+    height: 470px;
+    margin: 30px;
+    top: -723px;
+    left: 346px;
+}
+.osn1{
+    position: relative;
+    top: -236px;
+    left: 145px;
+}
+.imgm{
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+    border-style: solid;
+    border-color: #dc7c50;
+    border-width: 15px;
+}
+.container {
+  width: 1040px;
+  margin: 0 auto;
+  padding: 0;
+height: 650px;
+}
+.logo {
+  width: 65px;
+  height: 65px;
+  margin: 20px;
+  margin-right: 60px;
+}
+footer {
+    display: block;
+}
+.site-menu {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1040px;
+  margin: 0px;
+  margin-top: 40px;
+  padding: 0;
+font-family: Impact, sans-serif;
+  list-style: none;
+}
+
+.site-menu a {
+  display: block;
+  margin-right: 40px;
+  font-size: 17px;
+  text-decoration: none;
+  color: #d4d4d4;
+}
+
+.site-menu a:hover {
+  color: #00ffff;
+}
+
+.site-menu a:active {
+  color: #ccc;
+}
+.site-header {
+  color: #ffffff;
+  background-color: #2c1211;
+  height: 100px;
+}
+.main-nav {
+  display: flex;
+  margin-bottom: 0px;
+}
+footer{
+    height: 300px;
+}
+.site-footer {
+  padding-top: 50px;
+  padding-bottom: 80px;
+  color: #ffffff;
+margin-bottom: 0px;
+    height: 300px;
+  background-color: #2c1211;
+}
+
+
+.footer-columns-container {
+  display: flex;
+}
+
+.footer-columns-container .left-column {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+  margin-right: 230px;
+}
+
+.footer-columns-container .right-column {
+  width: 720px;
+  padding-top: 35px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.logo-container .logo {
+  margin-left: 0;
+  margin-right: 20px;
+}
+
+.logo-container p {
+  font-size: 14px;
+}
+
+.copyrights {
+  margin-top: auto;
+
+  color: #555555;
+}
+
+.footer-menu {
+  display: flex;
+
+  list-style: none;
+}
+
+.footer-menu > li {
+  width: 180px;
+  margin-right: 60px;
+}
+
+.footer-submenu-title {
+  display: block;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+
+  font-size: 14px;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  border-bottom: 1px solid #555555;
+}
+
+.footer-submenu {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.footer-submenu > li {
+  margin-bottom: 20px;
+}
+
+.footer-submenu a {
+  text-decoration: none;
+  color: #888888;
+}
+
+.footer-nav a:hover {
+  color: white;
+}
+
+.footer-nav a:active {
+  color: #ccc;
+}
+.three-piramids{
+    background-color: #8f9293;
+}
+.threefoto{
+    display: flex;
+    align-content: space-between;
+    height: 475px;
+}
+.about-sfinks{
+    background-color: #dc7c50;
+}
+
+.about-sfinks1{
+    position: relative;
+    width: 250px;
+    bottom: 1257px;
+    text-align: center;
+    left: 50px;
+}
+.about-sfinks2{
+    position: relative;
+    width: 250px;
+    bottom: 1590px;
+    text-align: center;
+    left: 730px;
+    top:-1632px;
+
+}
+
+.foto{
+    height: 590px;
+}
+
+#fon{
+    position: relative;
+    background-color: #dc7c50;
+    width: 750px;
+    height: 400px;
+    left: 75px;
+    bottom:  -80px;
+}
+ 
+#fon2{
+    position: relative;
+    background-color: #9d534e;
+    width: 100%;
+    height: 500px;
+    bottom:  -100px;
+    align-content: center;
+}
+.foto-sfinks{
+    position: relative;
+    bottom: 900px;
+    left: 365px;
+}
+#fon3{
+    position: relative;
+    background-color: #fbbc2d;
+    width: 350px;
+    height: 500px;
+    bottom:  445px;
+display: block;
+      margin: 0 auto; 
+}
+.sf{
+    position: relative;
+    bottom: 888px;
+    width: 300px;
+    text-align: center;
+    line-height: 1.5;
+    left: 365px;
+
+}
+.btn {
+  position: relative;
+
+  display: inline-block;
+  width: 195px;
+  padding: 2px 20px;
+    margin: 50px;
+    margin-top: 0px;
+text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 50px;
+  text-decoration: none;
+  text-transform: uppercase;
+  vertical-align: top;
+  color: #2c1211;
+
+  cursor: pointer;
+  border: none;
+  border-radius: 50px;
+}
+
+.btn::after {
+  content: "";
+
+  position: absolute;
+  right: 20px;
+  top: 17px;
+
+  width: 19px;
+  height: 16px;
+}
+
+.btn-yellow {
+  background-color: #9d534e;
+}
+
+.btn-yellow:hover {
+  background-color: #eec793;
+}
+
+.btn-yellow:active {
+  background-color: #c1a300;
+}
+
+
+
+
+h1{
+    font-size: 25px;
+    color: #2c1211;
+    font-family: Impact, fantasy;
+}
+.h{
+    position: relative;
+    bottom: 585px;
+    left:140px;
+}
+.gf{
+    position: relative;
+    bottom: 253px;
+    left: 487px;
+}
+.about-piramid{
+    position: relative;
+    width: 285px;
+    text-align: center;
+    bottom: 570px;
+    left:140px;
+    color: #2c1211;
+    font-family: Noto Sans, sans-serif;
+    
+}
+.piramids{
+    background-color: #a78171;
+}
